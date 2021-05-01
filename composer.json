@@ -1,0 +1,14 @@
+{
+    "name": "daniwebdev/nik",
+    "description": "NIK Validation & Parser",
+    "authors": [{
+        "name": "Dani",
+        "email": "dani.webdev@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DaniWebDev\\": "./src/"
+        }
+    }
+}
